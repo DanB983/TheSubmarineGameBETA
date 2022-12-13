@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 2427972965008938655}
   - component: {fileID: 2419963215334055643}
   - component: {fileID: 2328884042034657195}
-  - component: {fileID: 2328884043332352685}
   - component: {fileID: 1872678559361289624}
   m_Layer: 6
   m_Name: Heart
@@ -110,30 +109,6 @@ MonoBehaviour:
   endScale: {x: 1.5, y: 1.5, z: 1.5}
   scaleSpeed: 1
   scaleRate: 0.5
---- !u!114 &2328884043332352685
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2434006875871120237}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9ff967b7ed48f2441bcf509edf6b889a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  isAnimated: 0
-  isRotating: 0
-  isFloating: 0
-  isScaling: 0
-  rotationAngle: {x: 0, y: 0, z: 0}
-  rotationSpeed: 0
-  floatSpeed: 0
-  floatRate: 0
-  startScale: {x: 0, y: 0, z: 0}
-  endScale: {x: 0, y: 0, z: 0}
-  scaleSpeed: 0
-  scaleRate: 0
 --- !u!65 &1872678559361289624
 BoxCollider:
   m_ObjectHideFlags: 0

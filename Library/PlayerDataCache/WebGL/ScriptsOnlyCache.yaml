@@ -1279,4 +1279,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/EASY.unity
   - Assets/Scenes/MEDIUM.unity
   - Assets/Scenes/HARD.unity
-  playerPath: /Users/danielbaldwin/Documents/GitHub/TheSubmarineGameBETA/Build/BUILD3/bbuild
+  playerPath: /Users/danielbaldwin/Documents/GitHub/TheSubmarineGameBETA/buildBETA
